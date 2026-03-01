@@ -1,0 +1,119 @@
+{
+  "version": "1.0.0",
+  "event": "Basis Phoenix Middle School CTF",
+  "flagFormat": "BASIS{...}",
+  "timeTargetMinutes": {
+    "min": 45,
+    "max": 90
+  },
+  "challenges": [
+    {
+      "id": "01",
+      "slug": "welcome_flag",
+      "title": "Welcome Flag",
+      "difficulty": "easy",
+      "points": 50,
+      "estimatedMinutes": 4,
+      "folder": "challenges/01_welcome_flag"
+    },
+    {
+      "id": "02",
+      "slug": "wrong_extension",
+      "title": "Wrong Extension",
+      "difficulty": "easy",
+      "points": 50,
+      "estimatedMinutes": 7,
+      "folder": "challenges/02_wrong_extension"
+    },
+    {
+      "id": "03",
+      "slug": "metadata_message",
+      "title": "Metadata Message",
+      "difficulty": "easy",
+      "points": 50,
+      "estimatedMinutes": 8,
+      "folder": "challenges/03_metadata_message"
+    },
+    {
+      "id": "04",
+      "slug": "base64_lunch_note",
+      "title": "Base64 Lunch Note",
+      "difficulty": "easy",
+      "points": 50,
+      "estimatedMinutes": 8,
+      "folder": "challenges/04_base64_lunch_note"
+    },
+    {
+      "id": "05",
+      "slug": "caesar_club_message",
+      "title": "Caesar Club Message",
+      "difficulty": "medium",
+      "points": 100,
+      "estimatedMinutes": 12,
+      "folder": "challenges/05_caesar_club_message"
+    },
+    {
+      "id": "06",
+      "slug": "zip_treasure_box",
+      "title": "Zip Treasure Box",
+      "difficulty": "medium",
+      "points": 100,
+      "estimatedMinutes": 12,
+      "folder": "challenges/06_zip_treasure_box"
+    },
+    {
+      "id": "07",
+      "slug": "log_detective",
+      "title": "Log Detective",
+      "difficulty": "medium",
+      "points": 100,
+      "estimatedMinutes": 14,
+      "folder": "challenges/07_log_detective"
+    },
+    {
+      "id": "08",
+      "slug": "source_peek",
+      "title": "Source Peek",
+      "difficulty": "medium",
+      "points": 100,
+      "estimatedMinutes": 10,
+      "folder": "challenges/08_source_peek"
+    },
+    {
+      "id": "09",
+      "slug": "find_in_big_file",
+      "title": "Find in Big File",
+      "difficulty": "medium",
+      "points": 100,
+      "estimatedMinutes": 10,
+      "folder": "challenges/09_find_in_big_file"
+    },
+    {
+      "id": "10",
+      "slug": "tiny_stego_hint",
+      "title": "Tiny Stego Hint",
+      "difficulty": "stretch",
+      "points": 150,
+      "estimatedMinutes": 18,
+      "folder": "challenges/10_tiny_stego_hint"
+    },
+    {
+      "id": "11",
+      "slug": "folder_timeline",
+      "title": "Folder Timeline",
+      "difficulty": "stretch",
+      "points": 150,
+      "estimatedMinutes": 16,
+      "folder": "challenges/11_folder_timeline"
+    },
+    {
+      "id": "12",
+      "slug": "chain_reaction_bonus",
+      "title": "Chain Reaction (Bonus)",
+      "difficulty": "bonus",
+      "points": 200,
+      "estimatedMinutes": 25,
+      "folder": "challenges/12_chain_reaction_bonus"
+    }
+  ]
+}

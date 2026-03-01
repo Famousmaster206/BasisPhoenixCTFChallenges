@@ -1,0 +1,5 @@
+Set metadata comment on school_photo.jpg to:
+BASIS{METADATA_REVEALS_SECRETS}
+
+Recommended command (if exiftool is installed):
+exiftool -overwrite_original -Comment="BASIS{METADATA_REVEALS_SECRETS}" school_photo.jpg

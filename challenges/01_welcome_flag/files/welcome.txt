@@ -1,0 +1,2 @@
+Welcome to Basis Phoenix CTF!
+Your first flag is: BASIS{WELCOME_TO_BASIS_PHOENIX}

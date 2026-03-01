@@ -1,0 +1,2 @@
+Try opening poster.png in a text editor and search for HIDDEN_TEXT.
+Alternative: run strings-like inspection and find BASIS{...}.

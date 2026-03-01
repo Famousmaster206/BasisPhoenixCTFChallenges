@@ -1,1 +1,93 @@
-Put your challenges here:
+Basis Phoenix CTF notes (for builders)
+
+This is just for us while building.
+
+Flag format: BASIS{...}
+Target event time: 45-90 min
+Challenge count: 12 total (including bonus)
+
+Difficulty + points:
+- Easy x4 (50 points)
+- Medium x5 (100 points)
+- Stretch x2 (150 points)
+- Bonus x1 (200 points)
+
+Hint timing idea:
+- Hint 1 after 5 min (no penalty)
+- Hint 2 after 10 min (-10%)
+- Hint 3 after 15 min (-20%)
+
+Status words:
+- TODO_ASSETS = still needs files
+- READY_FOR_TEST = playable, needs testing
+- LOCKED = final
+
+Challenges
+
+1) Welcome Flag
+- folder: /challenges/01_welcome_flag
+- skill: open/read text file
+- status: READY_FOR_TEST
+
+2) Wrong Extension
+- folder: /challenges/02_wrong_extension
+- skill: rename extension and inspect file
+- status: READY_FOR_TEST
+
+3) Metadata Message
+- folder: /challenges/03_metadata_message
+- skill: check file metadata
+- status: READY_FOR_TEST
+
+4) Base64 Lunch Note
+- folder: /challenges/04_base64_lunch_note
+- skill: decode Base64
+- status: READY_FOR_TEST
+
+5) Caesar Club Message
+- folder: /challenges/05_caesar_club_message
+- skill: decode Caesar shift
+- status: READY_FOR_TEST
+
+6) Zip Treasure Box
+- folder: /challenges/06_zip_treasure_box
+- skill: unzip and follow clue chain
+- status: READY_FOR_TEST
+
+7) Log Detective
+- folder: /challenges/07_log_detective
+- skill: read logs and find suspicious line
+- status: READY_FOR_TEST
+
+8) Source Peek
+- folder: /challenges/08_source_peek
+- skill: view source in browser
+- status: READY_FOR_TEST
+
+9) Find in Big File
+- folder: /challenges/09_find_in_big_file
+- skill: search smartly in large text
+- status: READY_FOR_TEST
+
+10) Tiny Stego Hint
+- folder: /challenges/10_tiny_stego_hint
+- skill: beginner stego-style extraction
+- status: READY_FOR_TEST
+
+11) Folder Timeline
+- folder: /challenges/11_folder_timeline
+- skill: sort by modified time
+- status: READY_FOR_TEST
+
+12) Chain Reaction (Bonus)
+- folder: /challenges/12_chain_reaction_bonus
+- skill: combine earlier skills
+- status: READY_FOR_TEST
+
+Builder checklist
+- each challenge keeps `challenge.md` + `files/`
+- replace placeholder flags in `challenge.md`
+- test challenge on a clean student account
+- keep content school-safe and local
+- never expose real answers in frontend code
+
