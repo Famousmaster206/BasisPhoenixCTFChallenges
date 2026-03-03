@@ -12,12 +12,6 @@
 
 ## Player Prompt
 
-You found a secret message:
-
-0x4F (base 16)
-
-Task:
-
 You found a Python script called flag.py
 Look at the script or run it to figure out the flag.
 
