@@ -13,6 +13,7 @@
 ## Player Prompt
 
 You found a Python script called flag.py
+
 Look at the script or run it to figure out the flag.
 
 ## Hints
