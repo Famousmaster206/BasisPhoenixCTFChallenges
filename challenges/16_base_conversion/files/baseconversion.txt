@@ -1,0 +1,21 @@
+You found a secret message encoded in numbers:
+
+1011 (base 2)
+17 (base 8)
+B (base 16)
+
+All three numbers represent the same value in different bases.
+
+Task:
+
+Convert all three numbers to decimal.
+
+Add them together.
+
+Convert the sum to binary.
+
+The resulting binary number is the key to the flag.
+
+Submit your answer in the format:
+
+BASIS{binary_sum}
