@@ -1,0 +1,13 @@
+You found a secret message:
+
+0x4F (base 16)
+
+Task:
+
+Convert 0x4F (base 16) to decimal.
+
+Convert that decimal number to binary.
+
+Submit your answer in the format:
+
+BASIS{binary}
