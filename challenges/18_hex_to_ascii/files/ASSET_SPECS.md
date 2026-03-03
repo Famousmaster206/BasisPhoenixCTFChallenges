@@ -1,4 +1,4 @@
-# Asset Specs - 15 Letters to Numbers
+# Asset Specs - Hex to Ascii
 
 Create:
 
