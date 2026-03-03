@@ -1,0 +1,3 @@
+2 1 19 9 19{18 5 16 12 1 3 5_13 5_15}
+
+Hint: the 15 at the end stays the same!
