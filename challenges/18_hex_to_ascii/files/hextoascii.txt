@@ -1,0 +1,13 @@
+You found a secret message:
+
+The secret word starts with 0x73 in hexadecimal.
+
+Task:
+
+Convert 0x73 (base 16) to decimal.
+
+Find the corresponding ASCII character.
+
+Submit your answer in the format:
+
+BASIS{character}
