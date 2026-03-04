@@ -1,4 +1,4 @@
-# Asset Specs - 13 Layered Base 64
+# Asset Specs - 1 Layered Base 64
 
 Create:
 
