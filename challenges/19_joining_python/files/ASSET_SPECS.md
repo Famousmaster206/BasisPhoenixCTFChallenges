@@ -1,4 +1,4 @@
-# Asset Specs - Joining Python
+# Asset Specs - 19 Joining Python
 Create:
 
 - `flag.py` with a python script with a join function to create a flag
