@@ -1,4 +1,4 @@
-# Asset Specs - 15 Letters to Numbers
+# Asset Specs - 1 Letters to Numbers
 
 Create:
 
