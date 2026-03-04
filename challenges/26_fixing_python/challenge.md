@@ -1,5 +1,7 @@
 # Fixing Python
 
+- The error is there on purpose. Please don't fix it.
+
 ## Metadata
 - ID: 26
 - Difficulty: Medium
