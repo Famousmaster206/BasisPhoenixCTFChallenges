@@ -1,8 +1,8 @@
-# Asset Specs - 15 Letters to Numbers
+# Asset Specs - Hex to Binary
 
 Create:
 
-- `hextodecimal` with a hex which results in a decimal and when decoded results in binary
+- `hextobinary` with a hex which results in a decimal and when decoded results in binary
 Notes:
 
 - Flag is in form BASIS{binary}
