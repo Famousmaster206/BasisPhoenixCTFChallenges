@@ -2,8 +2,8 @@
 
 ## Metadata
 - ID: 33
-- Difficulty: Easy
-- Points: 50
+- Difficulty: Medium
+- Points: 300
 - Estimated Solve Time: 2-3 minutes
 - Primary Skill: Pattern Recognition / String Manipulation
 - Status: READY_FOR_TEST

@@ -4,8 +4,8 @@
 
 ## Metadata
 - ID: 26
-- Difficulty: Medium
-- Points: 100
+- Difficulty: Hard
+- Points: 400
 - Estimated Solve Time: 5-7 minutes
 - Primary Skill: Python / String Manipulation
 - Status: READY_FOR_TEST

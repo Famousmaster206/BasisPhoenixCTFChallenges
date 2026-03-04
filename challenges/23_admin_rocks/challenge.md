@@ -2,8 +2,8 @@
 
 ## Metadata
 - ID: 23
-- Difficulty: Easy
-- Points: 50
+- Difficulty: Hard
+- Points: 300
 - Estimated Solve Time: 3-5 minutes
 - Primary Skill: Web DevTools / Cookie Manipulation
 - Status: READY_FOR_TEST

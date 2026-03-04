@@ -2,8 +2,8 @@
 
 ## Metadata
 - ID: 24
-- Difficulty: Easy
-- Points: 50
+- Difficulty: Normal
+- Points: 100
 - Estimated Solve Time: 2-4 minutes
 - Primary Skill: Web Enumeration / robots.txt
 - Status: READY_FOR_TEST

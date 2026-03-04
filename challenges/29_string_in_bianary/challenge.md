@@ -2,8 +2,8 @@
 
 ## Metadata
 - ID: 29
-- Difficulty: Medium
-- Points: 100
+- Difficulty: Boss
+- Points: 500
 - Estimated Solve Time: 5-8 minutes
 - Primary Skill: File Forensics
 - Status: READY_FOR_TEST

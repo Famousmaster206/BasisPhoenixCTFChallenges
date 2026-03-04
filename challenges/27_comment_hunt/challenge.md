@@ -2,8 +2,8 @@
 
 ## Metadata
 - ID: 27
-- Difficulty: Easy
-- Points: 50
+- Difficulty: Normal
+- Points: 100
 - Estimated Solve Time: 3-5 minutes
 - Primary Skill: View Source File / HTML & CSS
 - Status: READY_FOR_TEST

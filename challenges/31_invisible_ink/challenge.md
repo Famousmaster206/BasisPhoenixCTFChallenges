@@ -2,8 +2,8 @@
 
 ## Metadata
 - ID: 31
-- Difficulty: Easy
-- Points: 50
+- Difficulty: Normal
+- Points: 100
 - Estimated Solve Time: 2-4 minutes
 - Primary Skill: Document Forensics / Visual Cues
 - Status: READY_FOR_TEST

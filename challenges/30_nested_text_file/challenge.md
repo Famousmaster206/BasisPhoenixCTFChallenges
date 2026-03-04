@@ -2,8 +2,8 @@
 
 ## Metadata
 - ID: 30
-- Difficulty: Medium
-- Points: 100
+- Difficulty: Boss
+- Points: 500
 - Estimated Solve Time: 5-10 minutes
 - Primary Skill: File Extraction / Persistence
 - Status: READY_FOR_TEST
