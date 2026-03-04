@@ -7,7 +7,7 @@
 - Estimated Solve Time: 3-5 minutes
 - Primary Skill: Web DevTools / Cookie Manipulation
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{C00KIE_M0NST3R_99}
+- Placeholder Flag: BASIS{C00KIE_M0NST3R_77}
 
 ## Player Prompt
 The admin dashboard is restricted. Only users with administrative privileges can see the secret flag. Can you find a way to "convince" the browser you are the boss?
