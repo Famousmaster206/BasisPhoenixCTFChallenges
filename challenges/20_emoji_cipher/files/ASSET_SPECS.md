@@ -1,4 +1,4 @@
-# Asset Specs - 19 Joining Python
+# Asset Specs - 20 Emoji Cipher
 Create:
 
 - `emoji.cipher` with a string of emojis each representing one letter
