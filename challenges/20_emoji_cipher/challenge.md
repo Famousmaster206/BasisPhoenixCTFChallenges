@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 20
-- Difficulty: Easy
-- Points: 50
+- Difficulty: Harder
+- Points: 400
 - Estimated Solve Time: 2-3 minutes
 - Primary Skill: Recognize decoding techniques
 - Status: READY_FOR_TEST

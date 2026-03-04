@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 16
-- Difficulty: Stretch
-- Points: 150
+- Difficulty: Medium
+- Points: 200
 - Estimated Solve Time: 6-10 minutes
 - Primary Skill: Recognize decoding techniques
 - Status: READY_FOR_TEST

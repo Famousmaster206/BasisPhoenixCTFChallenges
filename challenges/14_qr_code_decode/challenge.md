@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 14
-- Difficulty: Easy
-- Points: 50
+- Difficulty: Harder
+- Points: 400
 - Estimated Solve Time: 2-4 minutes
 - Primary Skill: Decode QR Codes
 - Status: READY_FOR_TEST

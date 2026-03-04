@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 22
-- Difficulty: Medium
-- Points: 100
+- Difficulty: Boss
+- Points: 500
 - Estimated Solve Time: 4-6 minutes
 - Primary Skill: QR Codes / Recognize decoding techniques
 - Status: READY_FOR_TEST

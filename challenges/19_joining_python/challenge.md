@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 19
-- Difficulty: Medium
-- Points: 100
+- Difficulty: Harder
+- Points: 400
 - Estimated Solve Time: 6-8 minutes
 - Primary Skill: Python / Reading Code
 - Status: READY_FOR_TEST

@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 21
-- Difficulty: Stretch
-- Points: 150
+- Difficulty: Harder
+- Points: 400
 - Estimated Solve Time: 10-12 minutes
 - Primary Skill: Python / Decoding Techniques
 - Status: READY_FOR_TEST
