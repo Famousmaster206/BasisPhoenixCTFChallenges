@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 10
-- Difficulty: Stretch
-- Points: 150
+- Difficulty: Hard
+- Points: 300
 - Estimated Solve Time: 12-18 minutes
 - Primary Skill: Guided stego-lite workflow
 - Status: READY_FOR_TEST

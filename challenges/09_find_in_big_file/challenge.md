@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 09
-- Difficulty: Medium
-- Points: 100
+- Difficulty: Hard
+- Points: 300
 - Estimated Solve Time: 6-10 minutes
 - Primary Skill: Search in large text content
 - Status: READY_FOR_TEST

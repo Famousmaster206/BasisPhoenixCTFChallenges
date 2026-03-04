@@ -4,7 +4,7 @@
 
 - ID: 06
 - Difficulty: Medium
-- Points: 100
+- Points: 200
 - Estimated Solve Time: 8-12 minutes
 - Primary Skill: Unzip archive and follow clue
 - Status: READY_FOR_TEST

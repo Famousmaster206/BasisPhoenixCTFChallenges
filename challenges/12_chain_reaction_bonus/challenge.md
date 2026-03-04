@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 12
-- Difficulty: Bonus
-- Points: 200
+- Difficulty: Boss
+- Points: 500
 - Estimated Solve Time: 15-25 minutes
 - Primary Skill: Combine prior skills in short sequence
 - Status: READY_FOR_TEST

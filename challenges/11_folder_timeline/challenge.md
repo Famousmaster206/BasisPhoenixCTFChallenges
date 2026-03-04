@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 11
-- Difficulty: Stretch
-- Points: 150
+- Difficulty: Medium
+- Points: 200
 - Estimated Solve Time: 10-16 minutes
 - Primary Skill: Use file modified time and folder sorting
 - Status: READY_FOR_TEST

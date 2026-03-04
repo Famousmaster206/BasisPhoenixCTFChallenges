@@ -4,7 +4,7 @@
 
 - ID: 07
 - Difficulty: Medium
-- Points: 100
+- Points: 200
 - Estimated Solve Time: 10-14 minutes
 - Primary Skill: Read logs to find suspicious event
 - Status: READY_FOR_TEST

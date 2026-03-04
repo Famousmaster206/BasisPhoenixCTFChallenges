@@ -3,7 +3,7 @@
 ## Metadata
 
 - ID: 05
-- Difficulty: Medium
+- Difficulty: Normal
 - Points: 100
 - Estimated Solve Time: 8-12 minutes
 - Primary Skill: Decode Caesar shift cipher

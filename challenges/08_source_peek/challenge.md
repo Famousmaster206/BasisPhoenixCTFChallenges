@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 08
-- Difficulty: Medium
-- Points: 100
+- Difficulty: Easy
+- Points: 50
 - Estimated Solve Time: 6-10 minutes
 - Primary Skill: View page source in browser
 - Status: READY_FOR_TEST
