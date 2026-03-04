@@ -5,7 +5,7 @@
 - Difficulty: Easy
 - Points: 50
 - Estimated Solve Time: 3-5 minutes
-- Primary Skill: View Source / HTML & CSS
+- Primary Skill: View Source File / HTML & CSS
 - Status: READY_FOR_TEST
 - Placeholder Flag: BASIS{C55_D0RK_12}
 
