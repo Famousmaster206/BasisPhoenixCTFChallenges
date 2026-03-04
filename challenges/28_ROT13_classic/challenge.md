@@ -1,7 +1,7 @@
 # ROT13 Classic
 
 ## Metadata
-- ID: 35
+- ID: 28
 - Difficulty: Easy
 - Points: 50
 - Estimated Solve Time: 3-5 minutes
