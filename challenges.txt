@@ -84,6 +84,56 @@ Challenges
 - skill: combine earlier skills
 - status: READY_FOR_TEST
 
+13) Layered Base 64
+- folder: /challenges/13_layered_base64
+- skill: decode Base64
+- status: READY_FOR_TEST
+
+14) QR Code Decode
+- folder: /challenges/14_qr_code_decode
+- skill: decode QR Codes
+- status: READY_FOR_TEST
+
+15) Letters to Numbers
+- folder: /challenges/15_letters_to_numbers
+- skill: recognize decoding techniques
+- status: READY_FOR_TEST
+
+16) Base Conversion
+- folder: /challenges/16_base_conversion
+- skill: recognize decoding techniques
+- status: READY_FOR_TEST
+
+17) Hex to Binary
+- folder: /challenges/17_hex_to_binary
+- skill: recognize decoding techniques
+- status: READY_FOR_TEST
+
+18) Hex to Ascii
+- folder: /challenges/18_hex_to_ascii
+- skill: recognize decoding techniques
+- status: READY_FOR_TEST
+
+19) Joining Python
+- folder: /challenges/19_joining_python
+- skill: python / reading code
+- status: READY_FOR_TEST
+
+20) Emoji Cipher
+- folder: /challenges/20_emoji_cipher
+- skill: recognize decoding techniques
+- status: READY_FOR_TEST
+
+21) Python List
+- folder: /challenges/21_python_list
+- skill: python / reading code/ recognize decoding techniques
+- status: READY_FOR_TEST
+
+22) QR Code Multistep
+- folder: /challenges/22_qr_code_multistep
+- skill: decode QR Codes / recognize decoding techniques
+- status: READY_FOR_TEST
+
 Builder checklist
 - each challenge keeps `challenge.md` + `files/`
 - replace placeholder flags in `challenge.md`
