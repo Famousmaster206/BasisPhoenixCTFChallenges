@@ -1,4 +1,4 @@
-# Asset Specs - Python List
+# Asset Specs - 21 Python List
 Create:
 
 - `flaglist.py` with a python script than when converting from ASCII and joining reveals the flag
