@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head><title>Admin Portal</title></head>
+<body>
+    <div id="content">
+        <h1>Access Denied</h1>
+        <p>Guest users are not permitted to view the flag.</p>
+    </div>
+    <script>
+        // Set guest cookie if not present
+        if (!document.cookie.includes("admin=")) {
+            document.cookie = "admin=false; path=/";
+        }
+        // Check cookie status
+        if (document.cookie.includes("admin=true")) {
+            document.getElementById('content').innerHTML = "<h1>Welcome Admin</h1><p>The flag is: BASIS{C00K1E_M0NST3R_77}</p>";
+        }
+    </script>
+</body>
+</html>
