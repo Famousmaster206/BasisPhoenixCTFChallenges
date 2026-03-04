@@ -1,4 +1,4 @@
-# Asset Specs - 1 QR Code Decode
+# Asset Specs - 14 QR Code Decode
 
 Create:
 
