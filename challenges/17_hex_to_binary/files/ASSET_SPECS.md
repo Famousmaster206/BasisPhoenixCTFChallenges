@@ -1,4 +1,4 @@
-# Asset Specs - Hex to Binary
+# Asset Specs - 17 Hex to Binary
 
 Create:
 
