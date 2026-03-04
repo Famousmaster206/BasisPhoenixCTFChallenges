@@ -1,0 +1,29 @@
+{
+    "Template": {
+        "name": "challenge name",
+        "description": "challenge description",
+        "points": 100,
+        "flag": "flag{this_is_a_flag}"
+    },
+
+    "Challenge1": {
+        "name": "Welcome Flag",
+        "description": "Welcome to Basis Phoenix CTF.\nOpen the file named `welcome.txt` and find the flag inside.\nSubmit the full flag in the format `BASIS{...}`.",
+        "points": 100,
+        "flag": "BASIS{WELCOME_TO_BASIS_PHOENIX}"
+    },
+
+    "Challenge2": {
+        "name": "Wrong Extention",
+        "description": "You found a file called `mystery.png`, but something is off.\nTry changing its extension and inspect it.\nFind and submit the flag.",
+        "points": 100,
+        "flag": "BASIS{REPLACE_ME_02}"
+    },
+
+    "Challenge3": {
+        "name": "Metadata Message",
+        "description": "The file `school_photo.jpg` looks normal, but it contains a hidden clue.\nInspect the file properties/metadata and find the flag.",
+        "points": 100,
+        "flag": "BASIS{METADATA_REVEALS_SECRETS}"
+    }
+}
