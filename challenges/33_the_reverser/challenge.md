@@ -1,7 +1,7 @@
 # The Reverser
 
 ## Metadata
-- ID: 36
+- ID: 33
 - Difficulty: Easy
 - Points: 50
 - Estimated Solve Time: 2-3 minutes
