@@ -8,7 +8,7 @@
 - Estimated Solve Time: 2-4 minutes
 - Primary Skill: Recognize decoding techniques
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_15}
+- Placeholder Flag: BASIS{aoneztwentysix}
 
 ## Player Prompt
 

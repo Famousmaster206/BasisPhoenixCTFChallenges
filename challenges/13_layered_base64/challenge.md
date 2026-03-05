@@ -3,8 +3,8 @@
 ## Metadata
 
 - ID: 13
-- Difficulty: Harder
-- Points: 400
+- Difficulty: Boss
+- Points: 500
 - Estimated Solve Time: 4-6 minutes
 - Primary Skill: Decode Base64
 - Status: READY_FOR_TEST

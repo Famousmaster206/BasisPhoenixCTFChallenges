@@ -74,7 +74,7 @@
     {
         "name": "Layered Base 64",
         "description": "You are given a string that has been encoded multiple times using Base64. Decode it as many times as needed until you get the flag.",
-        "points": 400,
+        "points": 500,
         "flag": "BASIS{REPLACE_ME_13}"
     },
     {
@@ -87,7 +87,7 @@
         "name": "Letters to Numbers",
         "description": "You are given an odd set of numbers in a text file\nDecode the numbers to reveal the flag.",
         "points": 200,
-        "flag": "BASIS{REPLACE_ME_15}"
+        "flag": "BASIS{aoneztwentysix}"
     },
     {
         "name": "Base Conversion",

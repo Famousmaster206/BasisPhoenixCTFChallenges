@@ -1,3 +1,3 @@
-2 1 19 9 19{18 5 16 12 1 3 5_13 5_15}
+2 1 19 9 19 1 15 14 5 26 20 23 5 14 20 25 19 9 24
 
-Hint: the 15 at the end stays the same!
+Hint: Add Curly Braces and capitalize to match the flag format
