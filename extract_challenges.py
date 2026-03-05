@@ -2,8 +2,8 @@ import os
 import json
 import re
 
-output = {}
-challenge_number = 4  # since you already did 1-3
+output = [] #json list instead of a json dictionary
+challenge_number = 0
 
 for root, dirs, files in os.walk("."):
     if "challenge.md" in files:
@@ -35,14 +35,12 @@ for root, dirs, files in os.walk("."):
         points = int(points_match.group(1))
         flag = flag_match.group(1).strip()
 
-        output[f"Challenge{challenge_number}"] = {
+        output.append({
             "name": name,
             "description": description,
             "points": points,
             "flag": flag
-        }
-
-        challenge_number += 1
+        })
 
 with open("challenges.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=4)

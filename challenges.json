@@ -1,200 +1,200 @@
-{
-    "Challenge4": {
+[
+    {
         "name": "Welcome Flag",
         "description": "Welcome to Basis Phoenix CTF.\nOpen the file named `welcome.txt` and find the flag inside.\nSubmit the full flag in the format `BASIS{...}`.",
         "points": 50,
-        "flag": "BASIS{WELCOME_TO_BASIS_PHOENIX}"
+        "flag": "BASIS{REPLACE_ME_01}"
     },
-    "Challenge5": {
+    {
         "name": "Wrong Extension",
         "description": "You found a file called `mystery.png`, but something is off.\nTry changing its extension and inspect it.\nFind and submit the flag.",
         "points": 50,
         "flag": "BASIS{REPLACE_ME_02}"
     },
-    "Challenge6": {
+    {
         "name": "Metadata Message",
         "description": "The file `school_photo.jpg` looks normal, but it contains a hidden clue.\nInspect the file properties/metadata and find the flag.",
         "points": 50,
         "flag": "BASIS{REPLACE_ME_03}"
     },
-    "Challenge7": {
+    {
         "name": "Base64 Lunch Note",
         "description": "You found an encoded note in `encoded_note.txt`.\nDecode it to reveal the flag.",
         "points": 50,
         "flag": "BASIS{REPLACE_ME_04}"
     },
-    "Challenge8": {
+    {
         "name": "Caesar Club Message",
         "description": "The coding club left a scrambled message in `club_message.txt`.\nIt was shifted by a small number of letters.\nDecode it and submit the flag.",
         "points": 100,
         "flag": "BASIS{REPLACE_ME_05}"
     },
-    "Challenge9": {
+    {
         "name": "Zip Treasure Box",
         "description": "Open `treasure.zip` and follow the clue inside.\nFind the file that contains the final flag.",
         "points": 200,
         "flag": "BASIS{REPLACE_ME_06}"
     },
-    "Challenge10": {
+    {
         "name": "Log Detective",
         "description": "Check `cafeteria_access.log` and find the suspicious entry.\nUse that entry to recover the flag.",
         "points": 200,
         "flag": "BASIS{REPLACE_ME_07}"
     },
-    "Challenge11": {
+    {
         "name": "Source Peek",
         "description": "Open `index.html` in a browser.\nInspect the page source to find a hidden clue and flag.",
         "points": 50,
         "flag": "BASIS{REPLACE_ME_08}"
     },
-    "Challenge12": {
+    {
         "name": "Find in Big File",
         "description": "The file `handbook.txt` is large.\nFind the useful `phoenix-locker` note and recover the real flag near it.\nBe careful: not every clue-looking line is the final answer.",
         "points": 300,
         "flag": "BASIS{REPLACE_ME_09}"
     },
-    "Challenge13": {
+    {
         "name": "Tiny Stego Hint",
         "description": "`poster.png` has a hidden message.\nUse the clue in `hint.txt` and recover the flag.",
         "points": 300,
         "flag": "BASIS{REPLACE_ME_10}"
     },
-    "Challenge14": {
+    {
         "name": "Folder Timeline",
         "description": "Open `mystery_folder` and investigate the timeline.\nThe newest suspicious file contains the flag.",
         "points": 200,
         "flag": "BASIS{REPLACE_ME_11}"
     },
-    "Challenge15": {
+    {
         "name": "Chain Reaction (Bonus)",
         "description": "Start with `chain_start.txt` and follow every clue carefully.\nYou will need 2-3 skills used earlier in the event.\nRecover the final bonus flag.",
         "points": 500,
         "flag": "BASIS{REPLACE_ME_12}"
     },
-    "Challenge16": {
+    {
         "name": "Layered Base 64",
         "description": "You are given a string that has been encoded multiple times using Base64. Decode it as many times as needed until you get the flag.",
         "points": 400,
         "flag": "BASIS{REPLACE_ME_13}"
     },
-    "Challenge17": {
+    {
         "name": "QR Code Decode",
         "description": "You are given a QR Code that has a hidden message.\nScan the QR Code the reveal the message.",
         "points": 400,
         "flag": "BASIS{REPLACE_ME_14}"
     },
-    "Challenge18": {
+    {
         "name": "Letters to Numbers",
         "description": "You are given an odd set of numbers in a text file\nDecode the numbers to reveal the flag.",
         "points": 200,
         "flag": "BASIS{REPLACE_ME_15}"
     },
-    "Challenge19": {
+    {
         "name": "Base Conversion",
         "description": "You found a secret message encoded in numbers:\n1011 (base 2)\n17 (base 8)\nB (base 16)\nAll three numbers represent the same value in different bases.\nTask:\nConvert all three numbers to decimal.\nAdd them together.\nConvert the sum to binary.\nThe resulting binary number is the flag.\nSubmit your answer in the format:\nBASIS{binary_sum}",
         "points": 200,
         "flag": "BASIS{100101}"
     },
-    "Challenge20": {
+    {
         "name": "Hex to Binary",
         "description": "You found a secret message:\n0x4F (base 16)\nTask:\nConvert 0x4F (base 16) to decimal.\nConvert that decimal number to binary.\nSubmit your answer in the format:\nBASIS{binary}",
         "points": 200,
         "flag": "BASIS{01001111}"
     },
-    "Challenge21": {
+    {
         "name": "Hex to Ascii",
         "description": "You found a secret message:\nThe secret word starts with 0x73 in hexadecimal.\nTask:\nConvert 0x73 (base 16) to decimal.\nFind the corresponding ASCII character.\nSubmit your answer in the format:\nBASIS{character}",
         "points": 300,
         "flag": "BASIS{s}"
     },
-    "Challenge22": {
+    {
         "name": "Joining Python",
         "description": "You found a Python script called flag.py\nLook at the script or run it to figure out the flag.",
         "points": 400,
         "flag": "BASIS{JOINED_PYTHON}"
     },
-    "Challenge23": {
+    {
         "name": "Emoji Cipher",
         "description": "You found text filled with emojis. \nEach emoji represents one letter.\nConnect the emojis to letters to reveal the flag.",
         "points": 400,
         "flag": "BASIS{TSFDM}"
     },
-    "Challenge24": {
+    {
         "name": "Python List",
         "description": "You found a Python Script called flaglist.py\n\nTask:\nLook at the flag_codes list.\nConvert the numbers to ASCII characters using Python\u2019s chr() function.\nJoin them to get the flag.",
         "points": 400,
         "flag": "BASIS{HELLO_PYTHON}"
     },
-    "Challenge25": {
+    {
         "name": "QR Code Multistep",
         "description": "You found a QR Code, but this time it wont be as easy. Scan the QR Code and decode its contents.",
         "points": 500,
         "flag": "BASIS{REPLACE_ME_22}"
     },
-    "Challenge26": {
+    {
         "name": "The Cookie Jar",
         "description": "The admin dashboard is restricted. Only users with administrative privileges can see the secret flag. Can you find a way to \"convince\" the browser you are the boss?",
         "points": 300,
         "flag": "BASIS{C00KIE_M0NST3R_77}"
     },
-    "Challenge27": {
+    {
         "name": "Robots' Secret",
         "description": "Websites often use a special file to tell search engine \"robots\" which pages they aren't allowed to look at. If the robots aren't allowed there, that's exactly where we want to go.",
         "points": 100,
         "flag": "BASIS{N0_B0TS_4LL0W3D}"
     },
-    "Challenge28": {
+    {
         "name": "The Inspector's Console",
         "description": "Developers often leave \"debug\" messages in the background while they are building a site. They think users can't see them because they aren't printed on the screen. Prove them wrong.",
         "points": 100,
         "flag": "BASIS{LOG_CHAMP_42}"
     },
-    "Challenge29": {
+    {
         "name": "Fixing Python",
         "description": "We found a script that contains the flag, but it has an error Can you use your Python skills to fix it?",
         "points": 400,
         "flag": "BASIS{PY_TH0N_F1X_55}"
     },
-    "Challenge30": {
+    {
         "name": "Comment Hunt",
         "description": "The flag has been split in two! Half is hidden in the bones of the website (HTML), and the other half is hidden in the makeup (CSS). Can you find both?",
         "points": 100,
         "flag": "BASIS{C55_D0RK_12}"
     },
-    "Challenge31": {
+    {
         "name": "ROT13 Classic",
         "description": "We intercepted a message that looks like complete gibberish: `ONFVF{A0G_F0_F3PE3G_E0G}`. It looks like it might be a simple rotation cipher. Can you shift the letters back?",
         "points": 100,
         "flag": "BASIS{N0T_S0_S3CR3T_R0T}"
     },
-    "Challenge32": {
+    {
         "name": "Strings in Bianary",
         "description": "There is a secret hidden inside this binary file. It isn't a text file, so you can't just \"read\" it, but the flag is definitely buried in the code somewhere.",
         "points": 500,
         "flag": "BASIS{B1N4RY_HUNT3R_88}"
     },
-    "Challenge33": {
+    {
         "name": "Nested Text File",
         "description": "We found a suspicious ZIP file. Inside was another ZIP file. And inside that? You guessed it. How deep does the rabbit hole go?",
         "points": 500,
         "flag": "BASIS{Z1P_1NS1D3_A_Z1P}"
     },
-    "Challenge34": {
+    {
         "name": "Invisible Ink",
         "description": "The file we found appears to be completely empty. But the file size says there is data there. Is it possible the text is just \"camouflaged\"?",
         "points": 100,
         "flag": "BASIS{GH0ST_WR1T3R_11}"
     },
-    "Challenge35": {
+    {
         "name": "Vigenere Vault",
         "description": "The Caesar cipher was too easy, so we upgraded to something stronger. This ciphertext requires a \"Key\" to unlock. We heard a rumor that the key was written in \"Invisible Ink\" somewhere else in the lab...\n**Ciphertext:** `QOEWA{XW3_M1Y3B3Z3_M4SML}`",
         "points": 500,
         "flag": "BASIS{TH3_V1G3N3R3_V4ULT}"
     },
-    "Challenge36": {
+    {
         "name": "The Reverser",
         "description": "We found a string of text that looks like a flag, but the formatting is all wrong. It's almost as if someone looked at the flag in a mirror. Can you fix it?\n`}sdrawkcab_si_siht{SISAB`",
         "points": 300,
         "flag": "BASIS{this_is_backwards}"
     }
-}
+]
