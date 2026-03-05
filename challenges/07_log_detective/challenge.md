@@ -8,7 +8,7 @@
 - Estimated Solve Time: 10-14 minutes
 - Primary Skill: Read logs to find suspicious event
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_07}
+- Placeholder Flag: BASIS{janitor_backup_0317}
 
 ## Player Prompt
 

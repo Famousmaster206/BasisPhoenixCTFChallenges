@@ -8,7 +8,8 @@
 - Estimated Solve Time: 8-12 minutes
 - Primary Skill: Unzip archive and follow clue
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_06}
+- Placeholder Flag: BASIS{ZIP_AND_SEARCH}
+
 
 ## Player Prompt
 

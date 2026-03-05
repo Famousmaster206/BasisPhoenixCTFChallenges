@@ -8,7 +8,7 @@
 - Estimated Solve Time: 10-16 minutes
 - Primary Skill: Use file modified time and folder sorting
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_11}
+- Placeholder Flag: BASIS{TIMELINE_TACTICS}
 
 ## Player Prompt
 

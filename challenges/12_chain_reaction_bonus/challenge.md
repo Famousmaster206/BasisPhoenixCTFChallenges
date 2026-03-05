@@ -8,7 +8,7 @@
 - Estimated Solve Time: 15-25 minutes
 - Primary Skill: Combine prior skills in short sequence
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_12}
+- Placeholder Flag: BASIS{CHAINED_AND_SOLVED}
 
 ## Player Prompt
 

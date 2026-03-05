@@ -8,7 +8,7 @@
 - Estimated Solve Time: 5-8 minutes
 - Primary Skill: Decode Base64 text
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_04}
+- Placeholder Flag: BASIS{BASE64_IS_JUST_ENCODING}
 
 ## Player Prompt
 

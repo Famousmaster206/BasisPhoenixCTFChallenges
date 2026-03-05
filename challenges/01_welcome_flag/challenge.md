@@ -8,7 +8,7 @@
 - Estimated Solve Time: 2-4 minutes
 - Primary Skill: Open and read a text file
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_01}
+- Placeholder Flag: BASIS{WELCOME_TO_BASIS_PHOENIX}
 
 ## Player Prompt
 

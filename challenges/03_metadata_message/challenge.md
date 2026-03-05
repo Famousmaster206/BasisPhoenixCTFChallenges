@@ -8,7 +8,7 @@
 - Estimated Solve Time: 5-8 minutes
 - Primary Skill: Inspect metadata/properties
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_03}
+- Placeholder Flag: BASIS{METADATA_REVEALS_SECRETS}
 
 ## Player Prompt
 

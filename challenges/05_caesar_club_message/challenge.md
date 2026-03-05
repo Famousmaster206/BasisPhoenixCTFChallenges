@@ -8,7 +8,7 @@
 - Estimated Solve Time: 8-12 minutes
 - Primary Skill: Decode Caesar shift cipher
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_05}
+- Placeholder Flag: BASIS{SHIFT_HAPPENS}
 
 ## Player Prompt
 

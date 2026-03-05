@@ -8,7 +8,7 @@
 - Estimated Solve Time: 12-18 minutes
 - Primary Skill: Guided stego-lite workflow
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_10}
+- Placeholder Flag: BASIS{STEGO_LITE_SUCCESS}
 
 ## Player Prompt
 

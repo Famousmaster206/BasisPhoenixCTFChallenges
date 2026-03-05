@@ -8,7 +8,7 @@
 - Estimated Solve Time: 4-7 minutes
 - Primary Skill: Change file extension and open as text
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_02}
+- Placeholder Flag: BASIS{EXTENSIONS_MATTER}
 
 ## Player Prompt
 

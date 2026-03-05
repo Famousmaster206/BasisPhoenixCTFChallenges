@@ -8,7 +8,7 @@
 - Estimated Solve Time: 6-10 minutes
 - Primary Skill: Search in large text content
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_09}
+- Placeholder Flag: BASIS{SEARCH_IS_A_SUPERPOWER}
 
 ## Player Prompt
 

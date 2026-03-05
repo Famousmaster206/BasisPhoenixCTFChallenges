@@ -8,7 +8,7 @@
 - Estimated Solve Time: 6-10 minutes
 - Primary Skill: View page source in browser
 - Status: READY_FOR_TEST
-- Placeholder Flag: BASIS{REPLACE_ME_08}
+- Placeholder Flag: BASIS{VIEW_SOURCE_TO_WIN}
 
 ## Player Prompt
 

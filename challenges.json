@@ -3,73 +3,73 @@
         "name": "Welcome Flag",
         "description": "Welcome to Basis Phoenix CTF.\nOpen the file named `welcome.txt` and find the flag inside.\nSubmit the full flag in the format `BASIS{...}`.",
         "points": 50,
-        "flag": "BASIS{REPLACE_ME_01}"
+        "flag": "BASIS{WELCOME_TO_BASIS_PHOENIX}"
     },
     {
         "name": "Wrong Extension",
         "description": "You found a file called `mystery.png`, but something is off.\nTry changing its extension and inspect it.\nFind and submit the flag.",
         "points": 50,
-        "flag": "BASIS{REPLACE_ME_02}"
+        "flag": "BASIS{EXTENSIONS_MATTER}"
     },
     {
         "name": "Metadata Message",
         "description": "The file `school_photo.jpg` looks normal, but it contains a hidden clue.\nInspect the file properties/metadata and find the flag.",
         "points": 50,
-        "flag": "BASIS{REPLACE_ME_03}"
+        "flag": "BASIS{METADATA_REVEALS_SECRETS}"
     },
     {
         "name": "Base64 Lunch Note",
         "description": "You found an encoded note in `encoded_note.txt`.\nDecode it to reveal the flag.",
         "points": 50,
-        "flag": "BASIS{REPLACE_ME_04}"
+        "flag": "BASIS{BASE64_IS_JUST_ENCODING}"
     },
     {
         "name": "Caesar Club Message",
         "description": "The coding club left a scrambled message in `club_message.txt`.\nIt was shifted by a small number of letters.\nDecode it and submit the flag.",
         "points": 100,
-        "flag": "BASIS{REPLACE_ME_05}"
+        "flag": "BASIS{SHIFT_HAPPENS}"
     },
     {
         "name": "Zip Treasure Box",
         "description": "Open `treasure.zip` and follow the clue inside.\nFind the file that contains the final flag.",
         "points": 200,
-        "flag": "BASIS{REPLACE_ME_06}"
+        "flag": "BASIS{ZIP_AND_SEARCH}"
     },
     {
         "name": "Log Detective",
         "description": "Check `cafeteria_access.log` and find the suspicious entry.\nUse that entry to recover the flag.",
         "points": 200,
-        "flag": "BASIS{REPLACE_ME_07}"
+        "flag": "BASIS{janitor_backup_0317}"
     },
     {
         "name": "Source Peek",
         "description": "Open `index.html` in a browser.\nInspect the page source to find a hidden clue and flag.",
         "points": 50,
-        "flag": "BASIS{REPLACE_ME_08}"
+        "flag": "BASIS{VIEW_SOURCE_TO_WIN}"
     },
     {
         "name": "Find in Big File",
         "description": "The file `handbook.txt` is large.\nFind the useful `phoenix-locker` note and recover the real flag near it.\nBe careful: not every clue-looking line is the final answer.",
         "points": 300,
-        "flag": "BASIS{REPLACE_ME_09}"
+        "flag": "BASIS{SEARCH_IS_A_SUPERPOWER}"
     },
     {
         "name": "Tiny Stego Hint",
         "description": "`poster.png` has a hidden message.\nUse the clue in `hint.txt` and recover the flag.",
         "points": 300,
-        "flag": "BASIS{REPLACE_ME_10}"
+        "flag": "BASIS{STEGO_LITE_SUCCESS}"
     },
     {
         "name": "Folder Timeline",
         "description": "Open `mystery_folder` and investigate the timeline.\nThe newest suspicious file contains the flag.",
         "points": 200,
-        "flag": "BASIS{REPLACE_ME_11}"
+        "flag": "BASIS{TIMELINE_TACTICS}"
     },
     {
         "name": "Chain Reaction (Bonus)",
         "description": "Start with `chain_start.txt` and follow every clue carefully.\nYou will need 2-3 skills used earlier in the event.\nRecover the final bonus flag.",
         "points": 500,
-        "flag": "BASIS{REPLACE_ME_12}"
+        "flag": "BASIS{CHAINED_AND_SOLVED}"
     },
     {
         "name": "Layered Base 64",
