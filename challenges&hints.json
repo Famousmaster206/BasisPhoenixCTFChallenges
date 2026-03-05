@@ -1,0 +1,365 @@
+[
+    {
+        "name": "Welcome Flag",
+        "description": "Welcome to Basis Phoenix CTF.\nOpen the file named `welcome.txt` and find the flag inside.\nSubmit the full flag in the format `BASIS{...}`.",
+        "points": 50,
+        "flag": "BASIS{WELCOME_TO_BASIS_PHOENIX}",
+        "hints": {
+            "hint1": "Open the file in any text editor.",
+            "hint2": "The flag appears exactly once.",
+            "hint3": "Search for `BASIS{`."
+        }
+    },
+    {
+        "name": "Wrong Extension",
+        "description": "You found a file called `mystery.png`, but something is off.\nTry changing its extension and inspect it.\nFind and submit the flag.",
+        "points": 50,
+        "flag": "BASIS{EXTENSIONS_MATTER}",
+        "hints": {
+            "hint1": "Check if this file is really an image.",
+            "hint2": "Rename `mystery.png` to `mystery.txt`.",
+            "hint3": "Open the renamed text file and look for `BASIS{`."
+        }
+    },
+    {
+        "name": "Metadata Message",
+        "description": "The file `school_photo.jpg` looks normal, but it contains a hidden clue.\nInspect the file properties/metadata and find the flag.",
+        "points": 50,
+        "flag": "BASIS{METADATA_REVEALS_SECRETS}",
+        "hints": {
+            "hint1": "Right-click file and check Properties/Details.",
+            "hint2": "Look at fields like Comment, Author, Title, or Description.",
+            "hint3": "The flag is inside one metadata field."
+        }
+    },
+    {
+        "name": "Base64 Lunch Note",
+        "description": "You found an encoded note in `encoded_note.txt`.\nDecode it to reveal the flag.",
+        "points": 50,
+        "flag": "BASIS{BASE64_IS_JUST_ENCODING}",
+        "hints": {
+            "hint1": "The text uses a common encoding that often ends with `=`.",
+            "hint2": "Try Base64 decoding.",
+            "hint3": "Decode the whole line, then copy flag exactly."
+        }
+    },
+    {
+        "name": "Caesar Club Message",
+        "description": "The coding club left a scrambled message in `club_message.txt`.\nIt was shifted by a small number of letters.\nDecode it and submit the flag.",
+        "points": 100,
+        "flag": "BASIS{SHIFT_HAPPENS}",
+        "hints": {
+            "hint1": "This is a Caesar cipher.",
+            "hint2": "Try shifts from 1 to 5 first.",
+            "hint3": "If a decoded result reads naturally, you found the right shift."
+        }
+    },
+    {
+        "name": "Zip Treasure Box",
+        "description": "Open `treasure.zip` and follow the clue inside.\nFind the file that contains the final flag.",
+        "points": 200,
+        "flag": "BASIS{ZIP_AND_SEARCH}",
+        "hints": {
+            "hint1": "Extract all files first.",
+            "hint2": "Read every clue file in order.",
+            "hint3": "The final flag is in a text file at the end of the chain."
+        }
+    },
+    {
+        "name": "Log Detective",
+        "description": "Check `cafeteria_access.log` and find the suspicious entry.\nUse that entry to recover the flag.",
+        "points": 200,
+        "flag": "BASIS{janitor_backup_0317}",
+        "hints": {
+            "hint1": "Look for unusual times or repeated failures.",
+            "hint2": "The suspicious username and timestamp matter.",
+            "hint3": "A note in the log explains how to format the flag."
+        }
+    },
+    {
+        "name": "Source Peek",
+        "description": "Open `index.html` in a browser.\nInspect the page source to find a hidden clue and flag.",
+        "points": 50,
+        "flag": "BASIS{VIEW_SOURCE_TO_WIN}",
+        "hints": {
+            "hint1": "Right-click and choose View Page Source.",
+            "hint2": "Search source for `BASIS{` or comment tags.",
+            "hint3": "The flag is inside an HTML comment."
+        }
+    },
+    {
+        "name": "Find in Big File",
+        "description": "The file `handbook.txt` is large.\nFind the useful `phoenix-locker` note and recover the real flag near it.\nBe careful: not every clue-looking line is the final answer.",
+        "points": 300,
+        "flag": "BASIS{SEARCH_IS_A_SUPERPOWER}",
+        "hints": {
+            "hint1": "Use Ctrl+F or terminal search command.",
+            "hint2": "There is more than one clue-looking section.",
+            "hint3": "The real one is near a line with the catchphrase \"Work hard and be kind!\"."
+        }
+    },
+    {
+        "name": "Tiny Stego Hint",
+        "description": "`poster.png` has a hidden message.\nUse the clue in `hint.txt` and recover the flag.",
+        "points": 300,
+        "flag": "BASIS{STEGO_LITE_SUCCESS}",
+        "hints": {
+            "hint1": "Follow the exact tool hint in `hint.txt`.",
+            "hint2": "The hidden text is not visible in normal image view.",
+            "hint3": "Use one beginner-friendly extraction method only."
+        }
+    },
+    {
+        "name": "Folder Timeline",
+        "description": "Open `mystery_folder` and investigate the timeline.\nThe newest suspicious file contains the flag.",
+        "points": 200,
+        "flag": "BASIS{TIMELINE_TACTICS}",
+        "hints": {
+            "hint1": "Sort files by Modified Date.",
+            "hint2": "Check most recent files first.",
+            "hint3": "The flag is in a text file with an unusual name."
+        }
+    },
+    {
+        "name": "Chain Reaction (Bonus)",
+        "description": "Start with `chain_start.txt` and follow every clue carefully.\nYou will need 2-3 skills used earlier in the event.\nRecover the final bonus flag.",
+        "points": 500,
+        "flag": "BASIS{CHAINED_AND_SOLVED}",
+        "hints": {
+            "hint1": "Solve each clue in order; do not skip.",
+            "hint2": "Expect at least two different file operations.",
+            "hint3": "If stuck, restart from step 1 and verify each output before moving on."
+        }
+    },
+    {
+        "name": "Layered Base 64",
+        "description": "You are given a string that has been encoded multiple times using Base64. Decode it as many times as needed until you get the flag.",
+        "points": 500,
+        "flag": "BASIS{REPLACE_ME_13}",
+        "hints": {
+            "hint1": "Try decoding the string from Base64. Does the output still look encoded?",
+            "hint2": "Keep decoding until the output looks readable.",
+            "hint3": "If your decoded text still ends in = or looks like random letters and numbers, it\u2019s probably another Base64 layer."
+        }
+    },
+    {
+        "name": "QR Code Decode",
+        "description": "You are given a QR Code that has a hidden message.\nScan the QR Code the reveal the message.",
+        "points": 400,
+        "flag": "BASIS{REPLACE_ME_14}",
+        "hints": {
+            "hint1": "Use your phone camera or an online QR Code Scanner.",
+            "hint2": "There are many online websites where you can paste an image of a QR code to scan it.",
+            "hint3": "The flag is the decoded text."
+        }
+    },
+    {
+        "name": "Letters to Numbers",
+        "description": "You are given an odd set of numbers in a text file\nDecode the numbers to reveal the flag.",
+        "points": 200,
+        "flag": "BASIS{aoneztwentysix}",
+        "hints": {
+            "hint1": "The brackets and numbers before could possibly correspond to BASIS{..., maybe?",
+            "hint2": "How are the numbers related to the letter position?",
+            "hint3": "The number corresponds to the position the letter is in the alphabet."
+        }
+    },
+    {
+        "name": "Base Conversion",
+        "description": "You found a secret message encoded in numbers:\n1011 (base 2)\n17 (base 8)\nB (base 16)\nAll three numbers represent the same value in different bases.\nTask:\nConvert all three numbers to decimal.\nAdd them together.\nConvert the sum to binary.\nThe resulting binary number is the flag.\nSubmit your answer in the format:\nBASIS{binary_sum}",
+        "points": 200,
+        "flag": "BASIS{100101}",
+        "hints": {
+            "hint1": "What is Base 2 of 1011?",
+            "hint2": "17 (base 8) and B (base 16) have the same decimal value.",
+            "hint3": "The final binary is just the sum of base 2 of 1011, base 8 of 17, and base 16 of B."
+        }
+    },
+    {
+        "name": "Hex to Binary",
+        "description": "You found a secret message:\n0x4F (base 16)\nTask:\nConvert 0x4F (base 16) to decimal.\nConvert that decimal number to binary.\nSubmit your answer in the format:\nBASIS{binary}",
+        "points": 200,
+        "flag": "BASIS{01001111}",
+        "hints": {
+            "hint1": "Change 0x4F to decimal first.",
+            "hint2": "Convert the decimal to binary.",
+            "hint3": "Binary only includes 0s and 1s."
+        }
+    },
+    {
+        "name": "Hex to Ascii",
+        "description": "You found a secret message:\nThe secret word starts with 0x73 in hexadecimal.\nTask:\nConvert 0x73 (base 16) to decimal.\nFind the corresponding ASCII character.\nSubmit your answer in the format:\nBASIS{character}",
+        "points": 300,
+        "flag": "BASIS{s}",
+        "hints": {
+            "hint1": "Change 0x73 to decimal first.",
+            "hint2": "Convert the decimal to ascii.",
+            "hint3": "The ascii value should only be 1 letter."
+        }
+    },
+    {
+        "name": "Joining Python",
+        "description": "You found a Python script called flag.py\nLook at the script or run it to figure out the flag.",
+        "points": 400,
+        "flag": "BASIS{JOINED_PYTHON}",
+        "hints": {
+            "hint1": "The flag is split into a list called flag_chars.",
+            "hint2": "Python\u2019s \"\".join(list) combines a list of characters into a string.",
+            "hint3": "Running the script prints the flag directly."
+        }
+    },
+    {
+        "name": "Emoji Cipher",
+        "description": "You found text filled with emojis. \nEach emoji represents one letter.\nConnect the emojis to letters to reveal the flag.",
+        "points": 400,
+        "flag": "BASIS{TSFDM}",
+        "hints": {
+            "hint1": "Some emojis represent the first letter of the emoji's name",
+            "hint2": "\ud83c\udd71\ufe0f = B, \ud83c\udf4e = A, \ud83c\udf66 = I",
+            "hint3": "\ud83c\udf1f is reprewsents S"
+        }
+    },
+    {
+        "name": "Python List",
+        "description": "You found a Python Script called flaglist.py\n\nTask:\nLook at the flag_codes list.\nConvert the numbers to ASCII characters using Python\u2019s chr() function.\nJoin them to get the flag.",
+        "points": 400,
+        "flag": "BASIS{HELLO_PYTHON}",
+        "hints": {
+            "hint1": "Each number represents an ASCII code.",
+            "hint2": "Use \"\".join([chr(c) for c in flag_codes]) to reveal the flag.",
+            "hint3": "Running the script also prints the flag."
+        }
+    },
+    {
+        "name": "QR Code Multistep",
+        "description": "You found a QR Code, but this time it wont be as easy. Scan the QR Code and decode its contents.",
+        "points": 500,
+        "flag": "BASIS{REPLACE_ME_22}",
+        "hints": {
+            "hint1": "Scan the QR Code with your phone or another online website.",
+            "hint2": "The message from the QR Code looks encoded...",
+            "hint3": "Use a Hex Converter."
+        }
+    },
+    {
+        "name": "The Cookie Jar",
+        "description": "The admin dashboard is restricted. Only users with administrative privileges can see the secret flag. Can you find a way to \"convince\" the browser you are the boss?",
+        "points": 300,
+        "flag": "BASIS{C00KIE_M0NST3R_77}",
+        "hints": {
+            "hint1": "Open DevTools (F12) and look at the \"Application\" or \"Storage\" tab.",
+            "hint2": "Look for \"Cookies\" in the sidebar. Do you see anything interesting like `admin=false`?",
+            "hint3": "Try changing the value of the admin cookie and refreshing the page."
+        }
+    },
+    {
+        "name": "Robots' Secret",
+        "description": "Websites often use a special file to tell search engine \"robots\" which pages they aren't allowed to look at. If the robots aren't allowed there, that's exactly where we want to go.",
+        "points": 100,
+        "flag": "BASIS{N0_B0TS_4LL0W3D}",
+        "hints": {
+            "hint1": "There is a standard file called `robots.txt` used by almost every website.",
+            "hint2": "Try navigating to the URL of the site but add `/robots.txt` at the end.",
+            "hint3": "Look for a \"Disallow\" entry in that file and visit that hidden path."
+        }
+    },
+    {
+        "name": "The Inspector's Console",
+        "description": "Developers often leave \"debug\" messages in the background while they are building a site. They think users can't see them because they aren't printed on the screen. Prove them wrong.",
+        "points": 100,
+        "flag": "BASIS{LOG_CHAMP_42}",
+        "hints": {
+            "hint1": "Open DevTools (F12).",
+            "hint2": "Click on the \"Console\" tab at the top of the DevTools window.",
+            "hint3": "If you don't see anything, try refreshing the page while the console is open."
+        }
+    },
+    {
+        "name": "Fixing Python",
+        "description": "We found a script that contains the flag, but it has an error Can you use your Python skills to fix it?",
+        "points": 400,
+        "flag": "BASIS{PY_TH0N_F1X_55}",
+        "hints": {
+            "hint1": "Look at the statement. Is anything Wrong?",
+            "hint2": "Maybe there is a space in the middle of the print statement",
+            "hint3": "Try rdeleting the space and look at the console for the output"
+        }
+    },
+    {
+        "name": "Comment Hunt",
+        "description": "The flag has been split in two! Half is hidden in the bones of the website (HTML), and the other half is hidden in the makeup (CSS). Can you find both?",
+        "points": 100,
+        "flag": "BASIS{C55_D0RK_12}",
+        "hints": {
+            "hint1": "Right-click on the page and select \"View Page Source\" to find Part 1.",
+            "hint2": "In the source code, look for a `<link>` tag pointing to a `.css` file. Click it.",
+            "hint3": "Comments in HTML look like `` and CSS comments look like `/* */`."
+        }
+    },
+    {
+        "name": "ROT13 Classic",
+        "description": "We intercepted a message that looks like complete gibberish: `ONFVF{A0G_F0_F3PE3G_E0G}`. It looks like it might be a simple rotation cipher. Can you shift the letters back?",
+        "points": 100,
+        "flag": "BASIS{N0T_S0_S3CR3T_R0T}",
+        "hints": {
+            "hint1": "This is a Caesar Cipher with a shift of 13.",
+            "hint2": "In ROT13, 'A' becomes 'N' and 'N' becomes 'A'.",
+            "hint3": "Search for an \"Online ROT13 Decoder\" to solve this instantly."
+        }
+    },
+    {
+        "name": "Strings in Bianary",
+        "description": "There is a secret hidden inside this binary file. It isn't a text file, so you can't just \"read\" it, but the flag is definitely buried in the code somewhere.",
+        "points": 500,
+        "flag": "BASIS{B1N4RY_HUNT3R_88}",
+        "hints": {
+            "hint1": "Your notepad can open .bin files. Try opening it with your notepad",
+            "hint2": "What is a tool you can use to find something in a chunk of text?",
+            "hint3": "Unless you are proficient in linux, Ctrl + f BASIS is a good option"
+        }
+    },
+    {
+        "name": "Nested Text File",
+        "description": "We found a suspicious ZIP file. Inside was another ZIP file. And inside that? You guessed it. How deep does the rabbit hole go?",
+        "points": 500,
+        "flag": "BASIS{Z1P_1NS1D3_A_Z1P}",
+        "hints": {
+            "hint1": "You'll need to extract the files repeatedly.",
+            "hint2": "There are 10 layers in total. Keep going!",
+            "hint3": "You can do this manually, but a true hacker might write a simple script to unzip everything at once."
+        }
+    },
+    {
+        "name": "Invisible Ink",
+        "description": "The file we found appears to be completely empty. But the file size says there is data there. Is it possible the text is just \"camouflaged\"?",
+        "points": 100,
+        "flag": "BASIS{GH0ST_WR1T3R_11}",
+        "hints": {
+            "hint1": "Try highlighting all the text in the document (Ctrl + A).",
+            "hint2": "If the text is white and the background is white, you won't see it until you change the background or highlight it.",
+            "hint3": "Keep an eye out\u2014there might be a secret \"key\" for a future challenge hidden here too."
+        }
+    },
+    {
+        "name": "Vigenere Vault",
+        "description": "The Caesar cipher was too easy, so we upgraded to something stronger. This ciphertext requires a \"Key\" to unlock. We heard a rumor that the key was written in \"Invisible Ink\" somewhere else in the lab...\n**Ciphertext:** `QOEWA{XW3_M1Y3B3Z3_M4SML}`",
+        "points": 500,
+        "flag": "BASIS{TH3_V1G3N3R3_V4ULT}",
+        "hints": {
+            "hint1": "This is a Vigen\u00e8re Cipher. Unlike Caesar, it uses a keyword to shift letters by different amounts.",
+            "hint2": "You need the secret key from Challenge 45 (Invisible Ink). (The key is `PHOENIX`).",
+            "hint3": "Use an online tool like CyberChef and search for the \"Vigen\u00e8re Decode\" recipe. Plug in the ciphertext and the key."
+        }
+    },
+    {
+        "name": "The Reverser",
+        "description": "We found a string of text that looks like a flag, but the formatting is all wrong. It's almost as if someone looked at the flag in a mirror. Can you fix it?\n`}sdrawkcab_si_siht{SISAB`",
+        "points": 300,
+        "flag": "BASIS{this_is_backwards}",
+        "hints": {
+            "hint1": "Look closely at the \"BASIS\" part. Does it look familiar but flipped?",
+            "hint2": "Try reading the string from right to left instead of left to right.",
+            "hint3": "You can use an online \"Text Reverser\" or write a one-line Python script: `print(\"string\"[::-1])`."
+        }
+    }
+]
