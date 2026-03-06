@@ -8,7 +8,7 @@ short version:
 
 ## What is already done
 
-- 12 challenges are planned and scaffolded under [challenges](challenges)
+- 33 challenges are planned and scaffolded under [challenges](challenges)
 - each challenge has `challenge.md` and a `files` folder with starter assets
 - [challenges.txt](challenges.txt) has the full list and builder notes
 - [platform/challenges.manifest.json](platform/challenges.manifest.json) has the machine-readable list
